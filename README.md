@@ -6,3 +6,5 @@ WHAT YOU NEED
 - vslibrary.nut
 
 MAP: https://steamcommunity.com/sharedfiles/filedetails/?id=2941413905
+
+Physics and map preview (note: the map looks much better with full compiled lighting which is available on steam workshop): https://www.youtube.com/watch?v=TAeIDUGzJ_0
